@@ -1,2 +1,2 @@
 # Actor
-Simple implementation of the actor model.
+Simple implementation of the Actor Model.
